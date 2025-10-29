@@ -20,7 +20,7 @@
 
 - Problem Solver: I enjoy the process of dissecting data to find hidden patterns and drive smarter decisions.
 
-- Foundational Skills: I leverage Java and HTML knowledge for versatile project development.
+
 </div>
 
 
